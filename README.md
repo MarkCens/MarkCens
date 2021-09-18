@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @岑思Si Cen, and I make convenient android app and windows app.
+- 👋 Hi, I’m @岑思Si Cen. Nice to meet you.
+- 🍚 I am doing research in machine learning and knowledge graph.
+- 🍰 I make convenient android app and windows app.
 - 📫 seeee.cen@gmail.com
